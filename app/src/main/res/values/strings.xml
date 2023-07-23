@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Notes</string>
+    <string name="app_name">EverWrite</string>
     <string name="enter_note_title">Enter Note Title</string>
     <string name="enter_note">Enter Note</string>
     <string name="save">Save</string>
